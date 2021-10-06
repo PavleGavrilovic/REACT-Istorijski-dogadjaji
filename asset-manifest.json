@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/REACT-Istorijski-dogadjaji/static/css/main.55771347.chunk.css",
+    "main.js": "/REACT-Istorijski-dogadjaji/static/js/main.ba40b3fc.chunk.js",
+    "main.js.map": "/REACT-Istorijski-dogadjaji/static/js/main.ba40b3fc.chunk.js.map",
+    "runtime-main.js": "/REACT-Istorijski-dogadjaji/static/js/runtime-main.a27c322a.js",
+    "runtime-main.js.map": "/REACT-Istorijski-dogadjaji/static/js/runtime-main.a27c322a.js.map",
+    "static/js/2.c7e15d49.chunk.js": "/REACT-Istorijski-dogadjaji/static/js/2.c7e15d49.chunk.js",
+    "static/js/2.c7e15d49.chunk.js.map": "/REACT-Istorijski-dogadjaji/static/js/2.c7e15d49.chunk.js.map",
+    "static/js/3.3cfef0eb.chunk.js": "/REACT-Istorijski-dogadjaji/static/js/3.3cfef0eb.chunk.js",
+    "static/js/3.3cfef0eb.chunk.js.map": "/REACT-Istorijski-dogadjaji/static/js/3.3cfef0eb.chunk.js.map",
+    "index.html": "/REACT-Istorijski-dogadjaji/index.html",
+    "static/css/main.55771347.chunk.css.map": "/REACT-Istorijski-dogadjaji/static/css/main.55771347.chunk.css.map",
+    "static/js/2.c7e15d49.chunk.js.LICENSE.txt": "/REACT-Istorijski-dogadjaji/static/js/2.c7e15d49.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/REACT-Istorijski-dogadjaji/static/media/Humanistic.49c85ff5.ttf",
+    "static/media/aboutPicture.bb9ad456.png": "/REACT-Istorijski-dogadjaji/static/media/aboutPicture.bb9ad456.png",
+    "static/media/eventCrest.addd9404.png": "/REACT-Istorijski-dogadjaji/static/media/eventCrest.addd9404.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a27c322a.js",
+    "static/js/2.c7e15d49.chunk.js",
+    "static/css/main.55771347.chunk.css",
+    "static/js/main.ba40b3fc.chunk.js"
+  ]
+}
